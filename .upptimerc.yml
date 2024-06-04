@@ -8,10 +8,12 @@ sites:
   - name: Hosting panel
     url: dagobert.jeroenvd.nl
     port: 8083
-  - name: mailserver
+  - name: mailserver - mail ontvangen
     url: mailcow.jeroenvd.nl
     port: 587
     check: "tcp-ping"
+  - name: mailserver - panel
+    url: https://mailcow.jeroenvd.nl
     ipv6: false
 
 status-website:
