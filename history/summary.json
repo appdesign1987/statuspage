@@ -4,36 +4,40 @@
     "url": "https://dagobert.jeroenvd.nl",
     "icon": "https://icons.duckduckgo.com/ip3/dagobert.jeroenvd.nl.ico",
     "slug": "hosting-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 401,
-    "timeDay": 508,
-    "timeWeek": 456,
-    "timeMonth": 425,
-    "timeYear": 401,
-    "dailyMinutesDown": {}
+    "time": 400,
+    "timeDay": 430,
+    "timeWeek": 441,
+    "timeMonth": 423,
+    "timeYear": 400,
+    "dailyMinutesDown": {
+      "2024-07-24": 0
+    }
   },
   {
     "name": "Hosting panel",
     "url": "dagobert.jeroenvd.nl",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hosting-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 368,
-    "timeDay": 532,
-    "timeWeek": 406,
-    "timeMonth": 386,
-    "timeYear": 368,
-    "dailyMinutesDown": {}
+    "time": 367,
+    "timeDay": 418,
+    "timeWeek": 391,
+    "timeMonth": 384,
+    "timeYear": 367,
+    "dailyMinutesDown": {
+      "2024-07-24": 0
+    }
   },
   {
     "name": "mailserver - mail ontvangen",
