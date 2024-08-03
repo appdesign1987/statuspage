@@ -62,7 +62,7 @@
     "url": "https://mailcow.jeroenvd.nl",
     "icon": "https://icons.duckduckgo.com/ip3/mailcow.jeroenvd.nl.ico",
     "slug": "mailserver-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.64%",
@@ -74,6 +74,7 @@
     "timeMonth": 640,
     "timeYear": 620,
     "dailyMinutesDown": {
+      "2024-08-03": 0,
       "2024-07-31": 21,
       "2024-07-30": 15
     }
