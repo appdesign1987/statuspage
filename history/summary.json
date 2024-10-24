@@ -54,7 +54,7 @@
     "url": "mailcow.jeroenvd.nl",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mailserver-mail-ontvangen",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
     "uptimeDay": "98.62%",
     "uptimeWeek": "99.80%",
