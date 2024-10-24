@@ -54,11 +54,11 @@
     "url": "mailcow.jeroenvd.nl",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mailserver-mail-ontvangen",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.90%",
     "time": 119,
     "timeDay": 145,
@@ -66,6 +66,7 @@
     "timeMonth": 112,
     "timeYear": 119,
     "dailyMinutesDown": {
+      "2024-10-24": 1,
       "2024-10-16": 15,
       "2024-09-04": 194
     }
@@ -75,9 +76,9 @@
     "url": "https://mailcow.jeroenvd.nl",
     "icon": "https://icons.duckduckgo.com/ip3/mailcow.jeroenvd.nl.ico",
     "slug": "mailserver-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
@@ -87,6 +88,7 @@
     "timeMonth": 545,
     "timeYear": 723,
     "dailyMinutesDown": {
+      "2024-10-24": 0,
       "2024-09-04": 212,
       "2024-08-21": 79,
       "2024-08-20": 0,
