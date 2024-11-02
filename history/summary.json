@@ -4,7 +4,7 @@
     "url": "https://dagobert.jeroenvd.nl",
     "icon": "https://icons.duckduckgo.com/ip3/dagobert.jeroenvd.nl.ico",
     "slug": "hosting-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 540,
     "timeYear": 438,
     "dailyMinutesDown": {
+      "2024-11-02": 0,
       "2024-10-21": 441,
       "2024-10-20": 388,
       "2024-10-14": 534,
